@@ -13,5 +13,5 @@ Simply download this file can copy it to your Eclipse Java project root director
 **NOTE** The plugin name is hardcoded into the build.xml file and will need to be changed to your actual project name if you are creating something other than 'AcmeStorage'.
 
 ```xml
-<property name="moduleID" value="AcmeStorage" />
+<property name="moduleID" value="acme-storage" />
 ```
