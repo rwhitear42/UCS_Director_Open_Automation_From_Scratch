@@ -15,4 +15,4 @@ Here are the steps required in order to create the bare bones of a new UCSD plug
 
 Think of a name for you project and then create it within Eclipse:
 
-![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/docs/initial_framework/images/new_java_project.png "Creating a new project")
+![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/new_java_project.png "Creating a new project")
