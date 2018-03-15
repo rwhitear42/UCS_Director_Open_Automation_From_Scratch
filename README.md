@@ -9,4 +9,4 @@ The SDK is far from intuitive, and documentation is sketchy to say the least. Ho
 **DISCLAIMER**
 Everything you find here is just the meanderings of an old man. There are no guarantees that anything you try using this repo will work. I'm just trying to help out.
 
-Should you accept the disclaimer above, then let's get started.
+Should you accept the disclaimer above, then let's get [started](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/README.md).
