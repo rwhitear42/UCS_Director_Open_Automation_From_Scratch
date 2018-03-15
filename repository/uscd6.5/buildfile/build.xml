@@ -1,12 +1,12 @@
 <project basedir="." default="build" name="OpenAutomationNetwork">
 	<property name="classesdir" value="${basedir}/bin" />
-	<property name="moduleID" value="csp2100" />
-	
+	<property name="moduleID" value="AcmeStorage" />
+
 	<target name="clean">
 		<delete dir="${basedir}/build" />
 		<delete file="${basedir}/feature-${moduleID}.zip" />
 	</target>
-	
+
 	<target name="build" depends="clean, jdoEnhance">
 		<delete dir="${basedir}/build" />
 		<mkdir dir="${basedir}/build" />
@@ -15,7 +15,7 @@
 	        </fileset>
 	    </jar>
 		<copy file="${basedir}/${moduleID}.feature" tofile="${basedir}/build/${moduleID}.feature" />
-		<!-- 
+		<!--
 		TODO: Necessary runtime jars need to be copied into ${basedir}/build folder!
 		But DO NOT copy the open automation jars into the build folder!
 		When introducing new jars, make sure your .feature file lists each jar as well!!!
@@ -23,17 +23,17 @@
 		<!-- Copy all the resources into the zip -->
 		<mkdir dir="${basedir}/build/resources" />
 		<copy todir="${basedir}/build/resources">
-			<fileset dir="${basedir}/resources" includes="**"/>  
+			<fileset dir="${basedir}/resources" includes="**"/>
 		</copy>
 		<!-- Copy all the cloudsense artifacts into the zip -->
 		<!--mkdir dir="${basedir}/build/cloudsense" />
 		<copy todir="${basedir}/build/cloudsense">
-			<fileset dir="${basedir}/cloudsense" includes="**"/>  
+			<fileset dir="${basedir}/cloudsense" includes="**"/>
 		</copy-->
 		<!-- Copy the pod definition folder into the zip -->
 		<mkdir dir="${basedir}/build/poddefinition" />
 		<copy todir="${basedir}/build/poddefinition">
-			<fileset dir="${basedir}/poddefinition" includes="**"/> 
+			<fileset dir="${basedir}/poddefinition" includes="**"/>
 		</copy>
 		<mkdir dir="${basedir}/build/${moduleID}/lib" />
 		<!-- this is how you copy a folder of jars to be part of your module -->
