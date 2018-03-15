@@ -10,4 +10,4 @@ So. **Where do we start?**
 
 Firstly, we need to create the most basic of plugin frameworks. This will include some mandatory subdirectories, a feature file (More on that later), a ```build.xml``` file for the ANT build within the Eclipse IDE and some reference libraries. Most importantly, we need to declare and create the entry class into our plugin.
 
-Create Initial Framework 
+[Create Initial Framework](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/tree/master/docs/initial_framework) 
