@@ -16,3 +16,7 @@ Here are the steps required in order to create the bare bones of a new UCSD plug
 Think of a name for you project and then create it within Eclipse:
 
 ![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/new_java_project.png "Creating a new project")
+
+The simulated new technology for which we are creating this new plugin will be a storage device, manufactured by the renowned ACME Corp. Using the example below, create the plugin as named below, being sure to select JavaSE 1.8 as the execution environment.
+
+![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/name_new_java_project.png "Name the new project")
