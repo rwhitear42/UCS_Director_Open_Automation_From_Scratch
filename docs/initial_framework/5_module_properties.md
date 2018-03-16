@@ -35,4 +35,4 @@ description=UCSD Open Automation Module for ACME Storage
 contact=rwhitear@cisco.com
 ```
 
-Next, we need to install and link the Open Automation libraries into our Eclipse project. [Next]()
+Next, we need to install and link the Open Automation libraries into our Eclipse project. [Next](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/6_install_and_link_OA_libraries.md)
