@@ -29,3 +29,5 @@ Wait for the services to come back up and login via the GUI as admin once more.
 The plugin should now show under Administration -> Open Automation with a status of _Enabled/Active_
 
 ![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/installed_plugin.png "Installed Plugin")
+
+**Congratulations!** You have successfully created your first UCS Director plugin.
