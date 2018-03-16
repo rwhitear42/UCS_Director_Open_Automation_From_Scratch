@@ -8,8 +8,9 @@ Here are the steps required in order to create the bare bones of a new UCSD plug
  2. Create the mandatory folders
  3. Create a ```build.xml``` file
  4. Create a feature file
- 5. Copy and link the required Open Automation Java libraries to your project
- 6. Create the entry Class for your module
+ 5. Create a module.properties file
+ 6. Copy and link the required Open Automation Java libraries to your project
+ 7. Create the entry Class for your module
 
 
 **STEP 1** -  Create a new Java Project in Eclipse
