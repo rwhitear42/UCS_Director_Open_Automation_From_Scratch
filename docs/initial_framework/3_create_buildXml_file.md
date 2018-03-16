@@ -13,7 +13,7 @@ Simply download this file can copy it to your Eclipse Java project root director
 **NOTE** The plugin name is hardcoded into the build.xml file and will need to be changed to your actual project name if you are creating something other than 'acme-storage'.
 
 ```xml
-<property name="moduleID" value="acme-storage" />
+<property name="moduleID" value="acmestorage" />
 ```
 
-The next step required is to [create a feature file](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/4_create_feature_file.md). 
+The next step required is to [create a feature file](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/4_create_feature_file.md).

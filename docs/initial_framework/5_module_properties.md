@@ -16,7 +16,7 @@ Unlike the build.xml and acme-storage.features files, the module.properties file
 
 ```
 #id the unique identifier for the module (recommendation: restrict this to 3-5 lowercase ascii alphabet characters)
-moduleID=acme-storage
+moduleID=acmestorage
 #version is the current version your module is on
 version=0.0.1
 #ucsdVersion is the version of UCSD this version of your module will work best with

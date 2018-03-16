@@ -2,7 +2,7 @@
 
 The feature file resides in the project root directory and must be named <FEATURE_NAME>.feature. So for example, taking our new ACME Storage plugin, the feature file needs to be named:
 
-```acme-storage.feature```
+```acmestorage.feature```
 
 The contents of the feature file detail the name of the final feature output prefixed by 'features/'. If the new module contains any Java libraries that need to be packaged along with it, then these Jars should also be listed here. Finally, there should be an entry detailing the entry Class into the project. This Class must extend _AbstractCloupiaModule_, but more on that shortly.
 
@@ -11,7 +11,7 @@ Here is an example of how our ACME Storage feature file could look:
 ```
 {
       jars:  [ "features/feature-acme-storage.jar", "features/acme-storage/lib/jsch/jsch-0.1.45.jar" ],
-      features: [ "com.cisco.feature.acme-storage.AcmeStorageModule" ]
+      features: [ "com.cisco.feature.acmestorage.AcmeStorageModule" ]
 }
 ```
 
