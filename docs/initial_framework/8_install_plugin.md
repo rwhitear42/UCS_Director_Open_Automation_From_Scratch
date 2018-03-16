@@ -15,3 +15,17 @@ Next, click _Select a File_...
 ...and browse to the directory that contains the _feature-acme-storage.zip_ file.
 
 ![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/select_plugin_file2.png "Select Plugin")
+
+Click Submit to commit plugin
+
+**NOTE** With 6.5.0.0 (Unpatched), the Submit button appears to do nothing even though the plugin installs correctly. Follow the next steps to confirm successful installation of the plugin.
+
+1. SSH into the UCS Director appliance and login as user _shelladmin_.
+2. Select option 3 to stop services.
+3. Select option 4 to start services.
+
+Wait for the services to come back up and login via the GUI as admin once more.
+
+The plugin should now show under Administration -> Open Automation with a status of _Enabled/Active_
+
+![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/installed_plugin.png "Installed Plugin")

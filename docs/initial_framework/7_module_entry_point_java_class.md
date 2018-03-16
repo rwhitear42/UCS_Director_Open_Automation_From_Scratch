@@ -62,4 +62,4 @@ BUILD SUCCESSFUL
 Total time: 890 milliseconds
 ```
 
-The important part here is the feature-acme-storage.zip file. This is the file that gets imported into UCS Director via its GUI, as we will show [next]().
+The important part here is the feature-acme-storage.zip file. This is the file that gets imported into UCS Director via its GUI, as we will show [next](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/8_install_plugin.md).
