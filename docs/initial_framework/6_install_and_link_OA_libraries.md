@@ -11,3 +11,13 @@ Start by copying the following directories from the _repository/ucsd<VERSION>/li
 Once complete, your Eclipse project should look something like this:
 
 ![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/oa_libraries_installation.png "OA libraries")
+
+Once copied, select each Jar file and add it to the build path like so:
+
+![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/reference_jars.png "Build Path")
+
+Continue until all libraries have been added to the build path.
+
+Finally, we need to create our entry point Java Class as declared in the acme-storage.feature file.
+
+This procedure can be found [here]().
