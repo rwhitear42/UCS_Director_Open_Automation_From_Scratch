@@ -16,4 +16,4 @@ Simply download this file can copy it to your Eclipse Java project root director
 <property name="moduleID" value="acme-storage" />
 ```
 
-The next step required is to [create a feature file](). 
+The next step required is to [create a feature file](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/4_create_feature_file.md). 

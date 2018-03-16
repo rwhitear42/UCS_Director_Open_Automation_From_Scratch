@@ -21,4 +21,4 @@ It also details that jsch-0.1.45.jar needs to be packaged along too (**Don't for
 
 Finally, it details the entry point into the main Java Class (AcmeStorageModule.java). This class will be discussed in detail later on.
 
-Next, we need to create a module.properties file.
+Next, we need to [create a module.properties file](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/5_module_properties.md).
