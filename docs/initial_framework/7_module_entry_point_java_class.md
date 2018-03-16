@@ -5,7 +5,7 @@ The module entry Class name and package location must match the entry in the mod
 For our AcmeStorage module, the entry Class will look something like so:
 
 ``` java
-package com.cisco.feature;
+package com.cisco.feature.acmestorage;
 
 import com.cloupia.service.cIM.inframgr.AbstractCloupiaModule;
 import com.cloupia.service.cIM.inframgr.AbstractTask;
