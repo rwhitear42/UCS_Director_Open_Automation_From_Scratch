@@ -31,3 +31,5 @@ The plugin should now show under Administration -> Open Automation with a status
 ![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/installed_plugin.png "Installed Plugin")
 
 **Congratulations!** You have successfully created your first UCS Director plugin.
+
+You can now proceed to [Creating an Account Type](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/creating_an_account_type/README.md).
