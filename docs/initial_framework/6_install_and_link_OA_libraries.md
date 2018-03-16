@@ -20,4 +20,4 @@ Continue until all libraries have been added to the build path.
 
 Finally, we need to create our entry point Java Class as declared in the acme-storage.feature file.
 
-This procedure can be found [here]().
+This procedure can be found [here](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/7_module_entry_point_java_class.md).
