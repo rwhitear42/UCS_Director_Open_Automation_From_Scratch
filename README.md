@@ -11,6 +11,6 @@ Everything you find here is just the meanderings of an old man. There are no gua
 
 Should you accept the disclaimer above, then let's get [started](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/README.md).
 
-Jump to:
+Alternatively, jump to:
  - [Initial Framework Creation](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/tree/master/docs/initial_framework)
- - [Account Creation](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/tree/master/docs/creating_an_account_type) 
+ - [Account Creation](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/tree/master/docs/creating_an_account_type)

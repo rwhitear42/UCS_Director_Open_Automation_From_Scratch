@@ -10,7 +10,7 @@ Simply download this file can copy it to your Eclipse Java project root director
 
 ![alt text](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/initial_framework/images/buildXml_folder.png "build.xml")
 
-**NOTE** The plugin name is hardcoded into the build.xml file and will need to be changed to your actual project name if you are creating something other than 'acme-storage'.
+**NOTE** The plugin name is hardcoded into the build.xml file and will need to be changed to your actual project name if you are creating something other than 'acmestorage'.
 
 ```xml
 <property name="moduleID" value="acmestorage" />
