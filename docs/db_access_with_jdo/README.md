@@ -4,4 +4,4 @@ UCS Director uses JDO by Datanucleus in order to abstract the creation and acces
 
 Plugins created and use database tables within UCSD for a variety of reasons. Most common use will be for the storage of form structure for orchestrator tasks and report tabs. It will also be likely though, that new tables will also be needed for device inventory too. In order to show how this works, we will create a dummy table in our new plugin and will populate it with some simulated data. We will then examine the contents of the new table at startup and will output it to the system log.
 
-So, let's get started.
+So, let's get [started](https://github.com/rwhitear42/UCS_Director_Open_Automation_From_Scratch/blob/master/docs/db_access_with_jdo/2_create_dummy_db_table.md).
