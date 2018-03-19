@@ -104,3 +104,5 @@ Finally, run an ANT build and check the console output for confirmation that our
 jdoEnhance:
      [java] Adding class to enhancer: com.cisco.feature.acmestorage.inventory.dummy.DummyTableConfig    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
+
+Now that we have created our new database table, let's explore how to populate it with some simulated content using Java Data Objects. Next...
