@@ -56,37 +56,37 @@ public class DummyTableConfig {
     @Persistent
     private long volume_size;
 
-	public String getId() {
-		return id;
-	}
+  	public String getId() {
+  		return id;
+  	}
 
-	public void setId(String id) {
-		this.id = id;
-	}
+  	public void setId(String id) {
+  		this.id = id;
+  	}
 
-	public String getAccountName() {
-		return accountName;
-	}
+  	public String getAccountName() {
+  		return accountName;
+  	}
 
-	public void setAccountName(String accountName) {
-		this.accountName = accountName;
-	}
+  	public void setAccountName(String accountName) {
+  		this.accountName = accountName;
+  	}
 
-	public String getVolume_name() {
-		return volume_name;
-	}
+  	public String getVolume_name() {
+  		return volume_name;
+  	}
 
-	public void setVolume_name(String volume_name) {
-		this.volume_name = volume_name;
-	}
+  	public void setVolume_name(String volume_name) {
+  		this.volume_name = volume_name;
+  	}
 
-	public long getVolume_size() {
-		return volume_size;
-	}
+  	public long getVolume_size() {
+  		return volume_size;
+  	}
 
-	public void setVolume_size(long volume_size) {
-		this.volume_size = volume_size;
-	}
+  	public void setVolume_size(long volume_size) {
+  		this.volume_size = volume_size;
+  	}
 
 }
 ```
